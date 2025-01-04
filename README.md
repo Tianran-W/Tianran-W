@@ -43,6 +43,8 @@
 - 自认为对技术的态度是包容和大胆，想见证尽量多的可能性，对知识的渴求也不止于计算机
 - 梦想是见证，可能性太多，而时间太少，与其做出取舍，我宁愿用有限的时间追求探索无限的机会，哪怕再渺茫
 
+### 🕒 个人统计数据
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -54,3 +56,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+[![Tianran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Tianran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianran-W&layout=compact&locale=cn)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TianranW)](https://github.com/anuraghazra/github-readme-stats) -->
