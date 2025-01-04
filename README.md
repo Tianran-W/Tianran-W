@@ -45,7 +45,11 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 03 January 2025 - To: 03 January 2025
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
