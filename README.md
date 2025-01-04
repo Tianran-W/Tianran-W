@@ -1,6 +1,6 @@
 ## 👋 你好，我是天然
 
-置身于瞬息万变的技术领域，我恰似一位踏入神秘森林的旅人，每一项新技术都是隐匿其中的奇景，我满怀着好奇去揭开面纱，又带着敬畏之心守护这份神奇
+**置身于瞬息万变的技术领域，我恰似一位踏入神秘森林的旅人，每一项新技术都是隐匿其中的奇景，我满怀着好奇去揭开面纱，又带着敬畏之心守护这份神奇**
 
 目前在哈尔滨工业大学本部学习，计算学部大三
 - 大一的时间基本用来学习数学基础和各种国外公开课，感谢UC伯克利的公开课、飞猪的CSDIY以及带我走上这条路的室友
@@ -10,9 +10,24 @@
 ---
 
 ### 🛠️ 技能专长
-- **编程语言**：C++, Python, Java, JavaScript
-- **技术框架**：Django, Vue, Spring
-- **工具和平台**：Git, Docker, ROS
+#### 编程语言
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+#### 工具和框架
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node-000?&logo=nodedotjs)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
+![Spark](https://img.shields.io/badge/-Spark-000?&logo=apachespark)
 
 ### 🚧 开源贡献
 - 维护着自己的开源项目 TuanChatWeb，该项目结构参考[MallChatWeb](https://github.com/Evansy/MallChatWeb)并基于[WebGal编辑器](https://github.com/OpenWebGAL/WebGAL_Terre)，旨在创建一个能自由跑团和分享剧本的社交平台。目前还处于开发阶段，不是主线任务，只会抽空做
