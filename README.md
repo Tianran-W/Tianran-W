@@ -57,7 +57,17 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![Tianran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Tianran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianran-W&layout=compact&locale=cn)
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TianranW)](https://github.com/anuraghazra/github-readme-stats) -->
+<div class="card-container" style="display:flex;justify-content:space-between;align-items:center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=default#gh-light-mode-only" alt="Tianran's GitHub stats">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tianran-W&show_icons=true&custom_title=Github统计数据&locale=cn&theme=dark#gh-dark-mode-only" alt="Tianran's GitHub stats">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianran-W&layout=compact&locale=cn&theme=default#gh-light-mode-only" alt="Top Langs">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianran-W&layout=compact&locale=cn&theme=dark#gh-dark-mode-only" alt="Top Langs">
+    </a>
+</div>
