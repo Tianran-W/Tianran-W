@@ -15,7 +15,7 @@
 - **工具和平台**：Git, Docker, ROS
 
 ### 🚧 开源贡献
-- 维护着自己的开源项目 TuanChatWeb，该项目结构参考[MallChatWeb](https://github.com/Evansy/MallChatWeb)并基于[WebGal编辑器](https://github.com/OpenWebGAL/WebGAL_Terre)，旨在创建。目前还处于开发阶段，不是主线任务，只会抽空做
+- 维护着自己的开源项目 TuanChatWeb，该项目结构参考[MallChatWeb](https://github.com/Evansy/MallChatWeb)并基于[WebGal编辑器](https://github.com/OpenWebGAL/WebGAL_Terre)，旨在创建一个能自由跑团和分享剧本的社交平台。目前还处于开发阶段，不是主线任务，只会抽空做
 - 过去的一年里，在Github上做了这些贡献
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tianran-W/Tianran-W/output/github-contribution-grid-snake-dark.svg">
