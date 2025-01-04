@@ -29,4 +29,9 @@
 - 梦想是见证，可能性太多，而时间太少，与其做出取舍，我宁愿用有限的时间追求探索无限的机会，哪怕再渺茫
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
