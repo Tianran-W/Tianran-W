@@ -51,15 +51,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 January 2025 - To: 01 July 2026
+From: 03 January 2025 - To: 02 July 2026
 
-Total Time: 1,794 hrs
+Total Time: 1,800 hrs 3 mins
 
-Go                         349 hrs 47 mins       ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.71 %
-Markdown                   250 hrs 55 mins       ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.42 %
-C++                        238 hrs 52 mins       ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.78 %
-Python                     193 hrs 58 mins       ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.37 %
-Dart                       190 hrs 4 mins        ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.17 %
+Go                         351 hrs 38 mins       ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.75 %
+Markdown                   251 hrs 35 mins       ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.41 %
+C++                        238 hrs 52 mins       ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.74 %
+Python                     193 hrs 58 mins       ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 %
+Dart                       190 hrs 4 mins        ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.13 %
 ```
 
 <!--END_SECTION:waka-->
